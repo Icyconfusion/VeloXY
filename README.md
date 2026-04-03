@@ -72,21 +72,30 @@ I designed a PCB motherboard around the mega2560 that will control the printer. 
 **Printed parts**
 | Part | Quantity | Picture |
 |------|----------|---------|
-| A bottom corner | 1 | |
-| A bed support | 1 | |
-| A idler | 1 | |
+| A bottom corner | 1 |<img width="766" height="750" alt="image" src="https://github.com/user-attachments/assets/4daf3f85-3890-480b-b72c-51cbe87b5e7c" />
+ |
+| A bed support | 1 | <img width="740" height="776" alt="image" src="https://github.com/user-attachments/assets/ffe08260-ad90-4f92-9e3f-ec08b9152e0c" />
+|
+| A idler | 1 |<img width="485" height="390" alt="image" src="https://github.com/user-attachments/assets/9cd2553c-3501-47f3-af36-4f164e5c51fc" />
+ |
 | A motor | 1 | |
-| A gantry belt post | 1 | |
+| A gantry belt post | 1 |<img width="831" height="618" alt="image" src="https://github.com/user-attachments/assets/77093554-7aaa-453d-907c-185ac4fe5801" />
+|
 | A gantry mount | 1 | |
 | B bottom corner | 1 | |
-| B bed support | 1 | |
+| B bed support | 1 |<img width="696" height="433" alt="image" src="https://github.com/user-attachments/assets/fa579b06-e6f8-4bd5-b5a9-50daae67202a" />
+ |
 | B idler | 1 | |
 | B motor | 1 | |
 | B gantry belt post | 1 | |
 | B gantry mount | 1 | |
-| Z front bracket | 1 | |
-| Front bed support | 1 | |
+| Z front bracket | 1 |<img width="438" height="375" alt="image" src="https://github.com/user-attachments/assets/7b3adafe-e1e2-44d3-bb61-4893fba1059b" />
+ |
+| Front bed support | 1 | <img width="875" height="566" alt="image" src="https://github.com/user-attachments/assets/e32b74ad-b8dd-4418-947b-23fe84f2afb2" />
+|
 | Front top support | 1 | |
 | Handle | 1 | |
-| Extruder | 1 | |
-| Electronics case | 1 | |
+| Extruder | 1 | <img width="840" height="742" alt="image" src="https://github.com/user-attachments/assets/8319fd63-f792-4cea-b59b-8958e5c29b7f" />
+|
+| Electronics case | 1 | <img width="991" height="675" alt="image" src="https://github.com/user-attachments/assets/1295f7fd-9a0f-44dc-9b77-717166f3ab0a" />
+ |
