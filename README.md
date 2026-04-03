@@ -1,5 +1,5 @@
 # VeloXY
-A CoreXY 3d printer with a heated chamber and bed. It has 300x300x320 print volume and 3 point bed-levelling.
+A CoreXY 3d printer with a heated chamber and bed. It has 300x300x320 print volume and 3 point bed-levelling. I made this project to be able to print higher quality materials.
 <img width="735" height="647" alt="image" src="https://github.com/user-attachments/assets/385adadf-e649-4300-a40a-f17bd95f0326" />
 
 ## **Assembly**
@@ -52,11 +52,41 @@ The chamber is heated by a PTC heater in the bottom corner, mounted to a base tu
 <img width="578" height="569" alt="image" src="https://github.com/user-attachments/assets/e99c0f7a-fe44-4826-8e77-1b77f1edfb91" />
 
 ### Motion
+The printer is based on a coreXY motion system. The belts are stacked on top of each other, so there is no need for a crossover system.
+<img width="474" height="521" alt="image" src="https://github.com/user-attachments/assets/d75f6584-459f-4abf-8a38-382a9f9186c0" />
+There are pulleys on the idlers and belt post on the gantry. The belts connect to a post/screw on the extruder.
+<img width="523" height="479" alt="image" src="https://github.com/user-attachments/assets/ab2ad822-17bd-45c8-aee9-7d646b55998b" />
 
 
 
 ## **Electronics**
+I designed a PCB motherboard around the mega2560 that will control the printer. The motherboard is 2 layers and uses A4988 footprint drivers. Power for the motors and heaters enters the board with a screw terminal from the 24v 600w PSU. There is also an 5v screw terminal input which powers the motor driver logic, lcd and if needed the arduino. The 5v comes from the psu but with a buck converter between. There is a third power input for the arduino vin pin which can be used if needed, but the arduino can also be powered by the 5v supply and usb. The LCD connects to a 4 pin header, with RX, TX, 5V and GND. All three heaters (Hotend, bed and chamber) are controlled through TO-220 mosfets, but the chamber has its own PSU. There are also fuses for the power inputs.
+<img width="788" height="591" alt="image" src="https://github.com/user-attachments/assets/f4315b25-3a0e-49f0-9ef4-c23d9584b01f" />
+<img width="1238" height="875" alt="image" src="https://github.com/user-attachments/assets/a5982b7a-af14-43aa-93e1-4948464d47d2" />
+
+## **BOM**
+
+**Components**
 
 
-
-
+**Printed parts**
+| Part | Quantity | Picture |
+|------|----------|---------|
+| A bottom corner | 1 | |
+| A bed support | 1 | |
+| A idler | 1 | |
+| A motor | 1 | |
+| A gantry belt post | 1 | |
+| A gantry mount | 1 | |
+| B bottom corner | 1 | |
+| B bed support | 1 | |
+| B idler | 1 | |
+| B motor | 1 | |
+| B gantry belt post | 1 | |
+| B gantry mount | 1 | |
+| Z front bracket | 1 | |
+| Front bed support | 1 | |
+| Front top support | 1 | |
+| Handle | 1 | |
+| Extruder | 1 | |
+| Electronics case | 1 | |
