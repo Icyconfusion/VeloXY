@@ -1,5 +1,5 @@
 # VeloXY
-A CoreXY 3d printer with a heated chamber and bed. It has 300x300x320 print volume and 3 point bed-levelling. I made this project to be able to print higher quality materials.
+A CoreXY 3d printer with a heated chamber and bed. It has 300x300x320 print volume and 3 point bed-levelling. I made this project to be able to print higher quality materials. The printer runs Marlin firmware.
 <img width="735" height="647" alt="image" src="https://github.com/user-attachments/assets/385adadf-e649-4300-a40a-f17bd95f0326" />
 
 ## **Assembly**
