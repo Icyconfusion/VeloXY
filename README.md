@@ -73,29 +73,21 @@ I designed a PCB motherboard around the mega2560 that will control the printer. 
 | Part | Quantity | Picture |
 |------|----------|---------|
 | A bottom corner | 1 |<img width="766" height="750" alt="image" src="https://github.com/user-attachments/assets/4daf3f85-3890-480b-b72c-51cbe87b5e7c" />
- | A bed support | 1 | <img width="740" height="776" alt="image" src="https://github.com/user-attachments/assets/ffe08260-ad90-4f92-9e3f-ec08b9152e0c" />
+| A bed support | 1 | <img width="740" height="776" alt="image" src="https://github.com/user-attachments/assets/ffe08260-ad90-4f92-9e3f-ec08b9152e0c" />
 | A idler | 1 |<img width="485" height="390" alt="image" src="https://github.com/user-attachments/assets/9cd2553c-3501-47f3-af36-4f164e5c51fc" />
 | A motor | 1 | <img width="474" height="448" alt="image" src="https://github.com/user-attachments/assets/176c208d-71a0-4350-837c-2004ba733710" />
-
 | A gantry belt post | 1 |<img width="831" height="618" alt="image" src="https://github.com/user-attachments/assets/77093554-7aaa-453d-907c-185ac4fe5801" />
 | A gantry mount | 1 | <img width="389" height="295" alt="image" src="https://github.com/user-attachments/assets/487aa9a8-a897-40f9-b682-201ae457a95e" />
-
 | B bottom corner | 1 | <img width="717" height="597" alt="image" src="https://github.com/user-attachments/assets/74061e89-0c4f-4925-9504-960858b5b3b2" />
-
 | B bed support | 1 |<img width="696" height="433" alt="image" src="https://github.com/user-attachments/assets/fa579b06-e6f8-4bd5-b5a9-50daae67202a" />
 | B idler | 1 | <img width="761" height="527" alt="image" src="https://github.com/user-attachments/assets/4e863cd1-3e9b-4f70-b9d3-f76a92a55bdb" />
-
 | B motor | 1 | <img width="879" height="637" alt="image" src="https://github.com/user-attachments/assets/d822e8ea-bbd1-4b0b-b18d-05f56dde57e7" />
-
 | B gantry belt post | 1 | <img width="202" height="371" alt="image" src="https://github.com/user-attachments/assets/73ba97e6-a232-4197-a056-c18b2d4aa6b3" />
-
 | B gantry mount | 1 | <img width="426" height="458" alt="image" src="https://github.com/user-attachments/assets/9cd4c8a3-b691-4e5e-be9b-cb63c1482e0d" />
-
 | Z front bracket | 1 |<img width="438" height="375" alt="image" src="https://github.com/user-attachments/assets/7b3adafe-e1e2-44d3-bb61-4893fba1059b" />
 | Front bed support | 1 | <img width="875" height="566" alt="image" src="https://github.com/user-attachments/assets/e32b74ad-b8dd-4418-947b-23fe84f2afb2" />
-| Front top support | 1 | 
+| Front top support | 1 | <img width="620" height="524" alt="image" src="https://github.com/user-attachments/assets/c0be7269-54c1-488e-82de-8605bd381e26" />
 | Handle | 1 | <img width="278" height="375" alt="image" src="https://github.com/user-attachments/assets/381e5801-97a8-4161-9b9d-4dba46a9dc5e" />
-
 | Extruder | 1 | <img width="840" height="742" alt="image" src="https://github.com/user-attachments/assets/8319fd63-f792-4cea-b59b-8958e5c29b7f" />
 | Electronics case | 1 | <img width="991" height="675" alt="image" src="https://github.com/user-attachments/assets/1295f7fd-9a0f-44dc-9b77-717166f3ab0a" />
  
