@@ -76,15 +76,12 @@ There are pulleys on the idlers and belt post on the gantry. The belts connect t
 
 ## **Electronics**
 I designed a PCB motherboard around the mega2560 that will control the printer. The motherboard is 2 layers and uses A4988 footprint drivers. Power for the motors and heaters enters the board with a screw terminal from the 24v 600w PSU. There is also an 5v screw terminal input which powers the motor driver logic, lcd and if needed the arduino. The 5v comes from the psu but with a buck converter between. There is a third power input for the arduino vin pin which can be used if needed, but the arduino can also be powered by the 5v supply and usb. The LCD connects to a 4 pin header, with RX, TX, 5V and GND. All three heaters (Hotend, bed and chamber) are controlled through TO-220 mosfets, but the chamber has its own PSU. There are also fuses for the power inputs.
+<img width="1458" height="831" alt="image" src="https://github.com/user-attachments/assets/edb3145c-d0d8-488d-9f7b-49adab4ffccd" />
 
 <img width="788" height="591" alt="image" src="https://github.com/user-attachments/assets/f4315b25-3a0e-49f0-9ef4-c23d9584b01f" />
 <img width="1238" height="875" alt="image" src="https://github.com/user-attachments/assets/a5982b7a-af14-43aa-93e1-4948464d47d2" />
 
 ## **BOM**
-
-**Components**
-
-
 **Printed parts**
 | Part | Quantity | Picture |
 |------|----------|---------|
